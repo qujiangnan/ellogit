@@ -13,5 +13,7 @@ public class App
         System.out.println("dnmd");
 
         System.out.println("第一次修改");
+
+        System.out.println("main写的");
     }
 }
